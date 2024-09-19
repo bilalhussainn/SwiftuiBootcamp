@@ -14,6 +14,17 @@
 		9CA4A40E2C9622E500CD441E /* SwiftfulThinkingBootcampTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A40D2C9622E500CD441E /* SwiftfulThinkingBootcampTests.swift */; };
 		9CA4A4182C9622E500CD441E /* SwiftfulThinkingBootcampUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4172C9622E500CD441E /* SwiftfulThinkingBootcampUITests.swift */; };
 		9CA4A41A2C9622E500CD441E /* SwiftfulThinkingBootcampUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4192C9622E500CD441E /* SwiftfulThinkingBootcampUITestsLaunchTests.swift */; };
+		9CA4A4272C98183000CD441E /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4262C98182F00CD441E /* TextBootcamp.swift */; };
+		9CA4A4292C981FC600CD441E /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4282C981FC600CD441E /* ShapesBootcamp.swift */; };
+		9CA4A42B2C98284900CD441E /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A42A2C98284900CD441E /* ColorsBootcamp.swift */; };
+		9CA4A42D2C9852E300CD441E /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A42C2C9852E300CD441E /* GradientsBootcamp.swift */; };
+		9CA4A42F2C9888FE00CD441E /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A42E2C9888FE00CD441E /* IconsBootcamp.swift */; };
+		9CA4A4312C9895F700CD441E /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4302C9895F700CD441E /* ImageBootcamp.swift */; };
+		9CA4A4332C997A4900CD441E /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4322C997A4800CD441E /* FrameBootcamp.swift */; };
+		9CA4A4352C9AFD0700CD441E /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4342C9AFD0700CD441E /* BackgroundAndOverlayBootcamp.swift */; };
+		9CA4A4372C9B533B00CD441E /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4362C9B533B00CD441E /* StacksBootcamp.swift */; };
+		9CA4A4392C9BFD9700CD441E /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A4382C9BFD9700CD441E /* PaddingAndSpacerBootcamp.swift */; };
+		9CA4A43B2C9C07F600CD441E /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA4A43A2C9C07F600CD441E /* SpacerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +55,17 @@
 		9CA4A4132C9622E500CD441E /* SwiftfulThinkingBootcampUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftfulThinkingBootcampUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CA4A4172C9622E500CD441E /* SwiftfulThinkingBootcampUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampUITests.swift; sourceTree = "<group>"; };
 		9CA4A4192C9622E500CD441E /* SwiftfulThinkingBootcampUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9CA4A4262C98182F00CD441E /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A4282C981FC600CD441E /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A42A2C98284900CD441E /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A42C2C9852E300CD441E /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A42E2C9888FE00CD441E /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A4302C9895F700CD441E /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A4322C997A4800CD441E /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A4342C9AFD0700CD441E /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A4362C9B533B00CD441E /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A4382C9BFD9700CD441E /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
+		9CA4A43A2C9C07F600CD441E /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +118,18 @@
 			children = (
 				9CA4A3FC2C9622E200CD441E /* SwiftfulThinkingBootcampApp.swift */,
 				9CA4A3FE2C9622E200CD441E /* ContentView.swift */,
+				9CA4A4262C98182F00CD441E /* TextBootcamp.swift */,
+				9CA4A42C2C9852E300CD441E /* GradientsBootcamp.swift */,
+				9CA4A4342C9AFD0700CD441E /* BackgroundAndOverlayBootcamp.swift */,
+				9CA4A42A2C98284900CD441E /* ColorsBootcamp.swift */,
+				9CA4A42E2C9888FE00CD441E /* IconsBootcamp.swift */,
+				9CA4A4362C9B533B00CD441E /* StacksBootcamp.swift */,
+				9CA4A4302C9895F700CD441E /* ImageBootcamp.swift */,
+				9CA4A4282C981FC600CD441E /* ShapesBootcamp.swift */,
+				9CA4A4322C997A4800CD441E /* FrameBootcamp.swift */,
+				9CA4A4382C9BFD9700CD441E /* PaddingAndSpacerBootcamp.swift */,
 				9CA4A4002C9622E400CD441E /* Assets.xcassets */,
+				9CA4A43A2C9C07F600CD441E /* SpacerBootcamp.swift */,
 				9CA4A4022C9622E400CD441E /* Preview Content */,
 			);
 			path = SwiftfulThinkingBootcamp;
@@ -257,8 +290,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CA4A42D2C9852E300CD441E /* GradientsBootcamp.swift in Sources */,
+				9CA4A4352C9AFD0700CD441E /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				9CA4A4392C9BFD9700CD441E /* PaddingAndSpacerBootcamp.swift in Sources */,
+				9CA4A42B2C98284900CD441E /* ColorsBootcamp.swift in Sources */,
+				9CA4A4332C997A4900CD441E /* FrameBootcamp.swift in Sources */,
+				9CA4A4292C981FC600CD441E /* ShapesBootcamp.swift in Sources */,
 				9CA4A3FF2C9622E200CD441E /* ContentView.swift in Sources */,
+				9CA4A4272C98183000CD441E /* TextBootcamp.swift in Sources */,
 				9CA4A3FD2C9622E200CD441E /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				9CA4A4372C9B533B00CD441E /* StacksBootcamp.swift in Sources */,
+				9CA4A43B2C9C07F600CD441E /* SpacerBootcamp.swift in Sources */,
+				9CA4A4312C9895F700CD441E /* ImageBootcamp.swift in Sources */,
+				9CA4A42F2C9888FE00CD441E /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,11 +468,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingBootcamp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bootcamp;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -452,11 +498,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftfulThinkingBootcamp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bootcamp;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

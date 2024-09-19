@@ -13,9 +13,19 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello, world!!! asdfafafd")
+                .font(.title)
+                .fontWeight(.black)
+                .foregroundColor(Color.green)
+                .multilineTextAlignment(.center)
+                .lineLimit(/*@START_MENU_TOKEN@*/3/*@END_MENU_TOKEN@*/)
+                .padding(.horizontal, 20.0)
+                
+                
+                
+                
+                
         }
-        .padding()
     }
 }
 
