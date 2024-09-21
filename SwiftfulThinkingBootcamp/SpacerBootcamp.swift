@@ -7,6 +7,23 @@
 
 import SwiftUI
 
+class Datas {
+    
+    func call() {
+        callTo(dat: "")
+        callFrom("")
+        
+    }
+    
+    func callTo(dat : String) {
+        
+    }
+    //func callFrom(_ dat : Color) {
+    func callFrom(_ dat : String) {
+        
+    }
+}
+
 struct SpacerBootcamp: View {
     var body: some View {
         HStack(spacing: nil) {
@@ -21,7 +38,7 @@ struct SpacerBootcamp: View {
             Rectangle()
                 .fill(Color.red)
                 .frame(width: 200, height: /*@START_MENU_TOKEN@*/100/*@END_MENU_TOKEN@*/)
-                
+            
         }.background(Color.blue)
         
         HStack(spacing: 0) {
@@ -41,7 +58,7 @@ struct SpacerBootcamp: View {
                 .fill(Color.green)
                 .frame(width: 50, height: 50)
             
-                
+            
         }
         
         HStack(spacing: 0) {
@@ -64,7 +81,7 @@ struct SpacerBootcamp: View {
             Spacer()
                 .frame(height: 10)
                 .background(.orange)
-                
+            
         }
         
         HStack(spacing: 0) {
@@ -95,7 +112,7 @@ struct SpacerBootcamp: View {
             Spacer()
                 .frame(height: 10)
                 .background(.orange)
-                
+            
         }
         
         HStack(spacing: 0) {
@@ -126,7 +143,7 @@ struct SpacerBootcamp: View {
             Spacer(minLength: 0)
                 .frame(height: 10)
                 .background(.orange)
-                
+            
         }
         .background(.yellow)
         .padding(.horizontal, 200) // 1. comment this and check 2. change to 20 and check
@@ -145,7 +162,7 @@ struct SpacerBootcamp: View {
         .background(.yellow)
         
         VStack {
-           // Spacer()
+            // Spacer()
             
             HStack(spacing: 0, content: {
                 Image(systemName: "xmark") // to position at to left
@@ -157,7 +174,7 @@ struct SpacerBootcamp: View {
                 
             }).font(.title)   // we can use .font commonly to HStack. apply this to all child
                 .padding(.horizontal)  //deafult padding  value
-                //.background(.yellow)
+            //.background(.yellow)
             
             Spacer()
                 .frame(width: 10)

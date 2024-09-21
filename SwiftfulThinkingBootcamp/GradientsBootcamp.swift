@@ -9,6 +9,8 @@ import SwiftUI
 
 struct GradientsBootcamp: View {
     var body: some View {
+        ScrollView(content: {
+        
         RoundedRectangle(cornerRadius: /*@START_MENU_TOKEN@*/25.0/*@END_MENU_TOKEN@*/)
             .fill(
                 LinearGradient(colors: [.red,.green], startPoint: .leading, endPoint: .trailing))
@@ -35,6 +37,7 @@ struct GradientsBootcamp: View {
                 AngularGradient.init(gradient: /*@START_MENU_TOKEN@*/Gradient(colors: [Color.red, Color.blue])/*@END_MENU_TOKEN@*/, center: .topLeading, angle: .degrees(180 + 45))
                 
             )   .frame(width: 300, height: 200)
+        })
     }
 }
 

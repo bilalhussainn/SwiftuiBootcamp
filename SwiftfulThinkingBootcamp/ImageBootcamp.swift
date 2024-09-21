@@ -30,6 +30,7 @@ struct ImageBootcamp: View {
         
         Image("therock")
             .resizable()
+            
             .aspectRatio(contentMode: .fit)
             .frame(width: 150, height:220)
             .clipShape(
